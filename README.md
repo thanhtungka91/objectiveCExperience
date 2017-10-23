@@ -10,4 +10,5 @@ https://gist.github.com/thanhtungka91/22b2e6cff3c6f5de520df82a59e305a5
 https://gist.github.com/thanhtungka91/f016405ca69597b824ed362fa58d5dfd
 6. NSUserDefault 
 https://stackoverflow.com/questions/3074483/save-string-to-the-nsuserdefaults
-
+7. mutil font in same ui as programing 
+https://gist.github.com/thanhtungka91/4be65561089dabb649625c5915a130e4
