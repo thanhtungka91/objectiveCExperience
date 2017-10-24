@@ -12,3 +12,5 @@ https://gist.github.com/thanhtungka91/f016405ca69597b824ed362fa58d5dfd
 https://stackoverflow.com/questions/3074483/save-string-to-the-nsuserdefaults
 7. mutil font in same ui as programing 
 https://gist.github.com/thanhtungka91/4be65561089dabb649625c5915a130e4
+8. current data 
+https://gist.github.com/thanhtungka91/8a2bf5b224734ffb83981b3b75a37fd6
