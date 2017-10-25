@@ -14,3 +14,5 @@ https://stackoverflow.com/questions/3074483/save-string-to-the-nsuserdefaults
 https://gist.github.com/thanhtungka91/4be65561089dabb649625c5915a130e4
 8. current data 
 https://gist.github.com/thanhtungka91/8a2bf5b224734ffb83981b3b75a37fd6
+9. compare time 
+https://gist.github.com/thanhtungka91/12c95c60681e67cce7e3ffbdbe69ad89
