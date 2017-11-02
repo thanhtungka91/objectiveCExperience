@@ -19,3 +19,5 @@ https://gist.github.com/thanhtungka91/67fd7cb4cb37b8352e908a71c02e8f29
 https://gist.github.com/thanhtungka91/12c95c60681e67cce7e3ffbdbe69ad89
 10. UIButton programmatically 
 https://gist.github.com/thanhtungka91/3efba409504391af206c341a6147347b
+11. Block 
+https://gist.github.com/thanhtungka91/2c3e87673f5ce430b79c848ce6574893
