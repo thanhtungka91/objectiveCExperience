@@ -14,7 +14,8 @@ https://stackoverflow.com/questions/3074483/save-string-to-the-nsuserdefaults
 https://gist.github.com/thanhtungka91/4be65561089dabb649625c5915a130e4
 8. current data 
 https://gist.github.com/thanhtungka91/8a2bf5b224734ffb83981b3b75a37fd6
-9. compare time 
+9. compare time, get current time 
+https://gist.github.com/thanhtungka91/67fd7cb4cb37b8352e908a71c02e8f29
 https://gist.github.com/thanhtungka91/12c95c60681e67cce7e3ffbdbe69ad89
 10. UIButton programmatically 
 https://gist.github.com/thanhtungka91/3efba409504391af206c341a6147347b
