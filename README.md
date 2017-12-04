@@ -27,3 +27,5 @@ https://gist.github.com/thanhtungka91/a566366cae5072f7c6d7beaa42a6b66a
 https://gist.github.com/thanhtungka91/7056e128b8581a0713eb1bf625712b25
 14. Cell customer 
 https://gist.github.com/thanhtungka91/efdb69464d45a236fe09d7b82eefa76c
+15. Delete Cell in table view 
+https://gist.github.com/thanhtungka91/c8426446e1d189a87834d596352c75c6
