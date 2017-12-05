@@ -33,3 +33,5 @@ https://gist.github.com/thanhtungka91/c8426446e1d189a87834d596352c75c6
 https://gist.github.com/thanhtungka91/7250a795ccc54468f127a611986c2ca5
 17. Dictionary collection 
 https://gist.github.com/thanhtungka91/736b7007621824b005a85a35e0321c8c
+18. create webview and print 
+https://gist.github.com/thanhtungka91/6755878fabf7e017c33ff847581b4a75
