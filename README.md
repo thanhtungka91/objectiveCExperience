@@ -31,3 +31,5 @@ https://gist.github.com/thanhtungka91/efdb69464d45a236fe09d7b82eefa76c
 https://gist.github.com/thanhtungka91/c8426446e1d189a87834d596352c75c6
 16. webview example
 https://gist.github.com/thanhtungka91/7250a795ccc54468f127a611986c2ca5
+17. Dictionary collection 
+https://gist.github.com/thanhtungka91/736b7007621824b005a85a35e0321c8c
