@@ -35,3 +35,5 @@ https://gist.github.com/thanhtungka91/7250a795ccc54468f127a611986c2ca5
 https://gist.github.com/thanhtungka91/736b7007621824b005a85a35e0321c8c
 18. create webview and print 
 https://gist.github.com/thanhtungka91/6755878fabf7e017c33ff847581b4a75
+19. swipe cell 
+https://gist.github.com/thanhtungka91/08031575df29ebe7531dc86429cb2bce
