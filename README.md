@@ -37,3 +37,5 @@ https://gist.github.com/thanhtungka91/736b7007621824b005a85a35e0321c8c
 https://gist.github.com/thanhtungka91/6755878fabf7e017c33ff847581b4a75
 19. swipe cell 
 https://gist.github.com/thanhtungka91/08031575df29ebe7531dc86429cb2bce
+20. notification push from the server 
+https://gist.github.com/thanhtungka91/9e72cb89834b667fd7d200a73bf57506
