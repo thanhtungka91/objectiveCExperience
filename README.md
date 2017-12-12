@@ -39,3 +39,5 @@ https://gist.github.com/thanhtungka91/6755878fabf7e017c33ff847581b4a75
 https://gist.github.com/thanhtungka91/08031575df29ebe7531dc86429cb2bce
 20. notification push from the server 
 https://gist.github.com/thanhtungka91/9e72cb89834b667fd7d200a73bf57506
+21. Example for badge 
+https://gist.github.com/thanhtungka91/1a263489ff63d1a917d6860ac96689a8
