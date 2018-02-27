@@ -41,7 +41,6 @@ https://gist.github.com/thanhtungka91/08031575df29ebe7531dc86429cb2bce
 https://gist.github.com/thanhtungka91/9e72cb89834b667fd7d200a73bf57506
 21. Example for badge 
 https://gist.github.com/thanhtungka91/1a263489ff63d1a917d6860ac96689a8
-
 22.open safari from webview
 https://gist.github.com/thanhtungka91/dccbc72e54d9b93ab4ced7e6cb29426d
 23. add cell confige start end line 
